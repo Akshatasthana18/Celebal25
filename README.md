@@ -15,6 +15,7 @@ Welcome to my Data Science Internship repository! This repository contains weekl
 | Week | Topic / Assignment | Description |
 |------|--------------------|-------------|
 | 1    | [Patterns]            | Create lower triangular, upper triangular and pyramid containing the "*" character. |
+| 2    | [Single Linkedlist ]  |  Linked List in Python Using OOP and Delete the Nth Node|
 
 
 > 📌 Each week’s folder contains:
