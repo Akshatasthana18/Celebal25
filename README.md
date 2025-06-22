@@ -17,7 +17,8 @@ Welcome to my Data Science Internship repository! This repository contains weekl
 | 1    | [Patterns]            | Create lower triangular, upper triangular and pyramid containing the "*" character. |
 | 2    | [Single Linkedlist ]  |  Linked List in Python Using OOP and Delete the Nth Node|
 | 3    | [Data Visualisation ]  |  Take Any dataset of your choice and do the visualization|
-
+| 4    | [Exploratory Data Analysis (EDA)]  |  Conduct an in-depth Exploratory Data Analysis on a complex dataset.|
+| 5    | [House Price Prediction]  | House Price Prediction Data Preprocessing and feature engineering|
 
 > 📌 Each week’s folder contains:
 > - A Jupyter Notebook
