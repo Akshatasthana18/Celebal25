@@ -19,6 +19,7 @@ Welcome to my Data Science Internship repository! This repository contains weekl
 | 3    | [Data Visualisation ]  |  Take Any dataset of your choice and do the visualization|
 | 4    | [Exploratory Data Analysis (EDA)]  |  Conduct an in-depth Exploratory Data Analysis on a complex dataset.|
 | 5    | [House Price Prediction]  | House Price Prediction Data Preprocessing and feature engineering|
+| 6    | [Model Evaluation and Hyperparameter Tuning]  | Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score.|
 
 > 📌 Each week’s folder contains:
 > - A Jupyter Notebook
