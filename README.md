@@ -20,6 +20,7 @@ Welcome to my Data Science Internship repository! This repository contains weekl
 | 4    | [Exploratory Data Analysis (EDA)]  |  Conduct an in-depth Exploratory Data Analysis on a complex dataset.|
 | 5    | [House Price Prediction]  | House Price Prediction Data Preprocessing and feature engineering|
 | 6    | [Model Evaluation and Hyperparameter Tuning]  | Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score.|
+| 7    | [Loan Approval]  | RAG Q&A chatbot using document retrieval and generative AI for intelligent response generation (can use any light model from hugging face or a license llm(opneai, claude, grok, gemini) if free credits available.|
 
 > 📌 Each week’s folder contains:
 > - A Jupyter Notebook
